@@ -9,7 +9,7 @@ public class Main {
 
         System.out.println(b);
 
-        int a = 1;
+        int a = 10;
 
         System.out.println(a);
     }
