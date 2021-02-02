@@ -8,5 +8,9 @@ public class Main {
         String b = "Hola";
 
         System.out.println(b);
+
+        int a = 1;
+
+        System.out.println(a);
     }
 }
